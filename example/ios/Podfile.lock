@@ -1,0 +1,38 @@
+PODS:
+  - Flutter (1.0.0)
+  - UMCCommon (7.1.0)
+  - UMCCommonLog (2.0.0)
+  - UMCPush (3.2.4):
+    - UMCCommon
+  - umeng (0.0.1):
+    - Flutter
+    - UMCCommon (= 7.1.0)
+    - UMCCommonLog
+    - UMCPush
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - umeng (from `.symlinks/plugins/umeng/ios`)
+
+SPEC REPOS:
+  trunk:
+    - UMCCommon
+    - UMCCommonLog
+    - UMCPush
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  umeng:
+    :path: ".symlinks/plugins/umeng/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  UMCCommon: 4e80f93492d300245683236668763dc5d0b04dbd
+  UMCCommonLog: 9b7ddde5d14a52fc1986ba5ac3121b8b2f433638
+  UMCPush: 1edd856027dcf905333effb4040ace5d236a7316
+  umeng: 66fed80917ea46dd0f3b85e8df2f608a2d76b280
+
+PODFILE CHECKSUM: ab710de80e6b831f3dc0814c78dc33eb76a225a1
+
+COCOAPODS: 1.9.1
