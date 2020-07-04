@@ -1,7 +1,6 @@
 name: umeng
 description: flutter plugin for test.
 version: 0.0.1
-author: dachui
 homepage: https://github.com/bwbookbbok/umeng
 
 environment:
